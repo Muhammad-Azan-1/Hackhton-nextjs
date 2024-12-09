@@ -9,7 +9,7 @@ const FeaturedProduct = () => {
 
         <div className="w-full h-full flex justify-center gap-x-[30px] md:gap-x-[45px] min3:gap-x-[35px] gap-y-[100px] lg:gap-[28px] flex-wrap  lg:flex-nowrap  pt-8  ">
           {/* box1 */}
-          <div className="h-[370px] w-[340px] min3:w-[270px] bg-[#F6F7FB] shadow-lg">
+          <div className="h-[370px] w-[500px] min4:w-[340px] min3:w-[270px] bg-[#F6F7FB] shadow-lg">
             <div className="relative overflow-hidden w-full h-[65%] flex justify-center items-center cursor-pointer ">
               <Image
                 src="/images/Cantileverchair.svg"
@@ -62,7 +62,7 @@ const FeaturedProduct = () => {
           </div>
 
           {/* box2 */}
-          <div className="h-[370px] w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
+          <div className="h-[370px] w-[500px] min4:w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
             <div className="relative overflow-hidden w-full h-[65%] flex justify-center items-center cursor-pointer ">
               <Image
                 src="/images/Cantileverchair2.svg"
@@ -113,7 +113,7 @@ const FeaturedProduct = () => {
           </div>
 
           {/* box3 */}
-          <div className="h-[370px] w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
+          <div className="h-[370px] w-[500px] min4:w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
             <div className="relative overflow-hidden w-full h-[65%] flex justify-center items-center cursor-pointer ">
               <Image
                 src="/images/Cantileverchair3.svg"
@@ -164,7 +164,7 @@ const FeaturedProduct = () => {
           </div>
 
           {/* box4 */}
-          <div className="h-[370px] w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
+          <div className="h-[370px] w-[500px] min4:w-[340px] min3:w-[270px]  bg-[#F6F7FB] shadow-lg">
             <div className="relative overflow-hidden w-full h-[65%] flex justify-center items-center cursor-pointer ">
               <Image
                 src="/images/Cantileverchair4.svg"

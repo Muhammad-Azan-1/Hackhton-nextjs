@@ -22,7 +22,10 @@ const config: Config = {
 		  screens:{
 			'min1':{'min':'1678px'},
 			'min2':{'min':'1400px'},
+			'min5':{'min':'1100px'},
 			'min3':{'min':'914px'},
+			'min6':{'min':'862px'},
+			'min4':{'min':'742px'},
 			'min-w':{min:'481px'},
 			'min-w2':{'min':'480px'},
 			'max-w':{max:'480px'},

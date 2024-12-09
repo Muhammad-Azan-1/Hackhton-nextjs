@@ -3,7 +3,7 @@ import { Button } from "@/Components/ui/button";
 const Banner = () => {
   return (
     <>
-    <div className="w-full h-auto bg-[#F1F0FF] flex flex-col md:flex-row justify-center items-center mt-24 px-2 xl:px-0">
+    <div className="w-full h-auto bg-[#F1F0FF] flex flex-col md:flex-row justify-center items-center py-4 mt-24 px-2 xl:px-0">
         <div className='flex items-center justify-center'>
         <Image src='/images/sofa2.svg' alt='sofa image' className='w-[450px] lg:w-[530px] xl:w-[630px]' width={630} height={600}></Image>
         </div>
